@@ -1,0 +1,7 @@
+subir archivos a github
+
+1 >   git add .
+
+2 >  git commit - m " actualizacion "
+
+3 >  git push -u origin main 
